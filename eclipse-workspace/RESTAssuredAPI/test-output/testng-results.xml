@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-15T09:22:36 IST" name="Default suite" finished-at="2023-11-15T09:22:38 IST" duration-ms="2344">
+    <groups>
+    </groups>
+    <test started-at="2023-11-15T09:22:36 IST" name="Default test" finished-at="2023-11-15T09:22:38 IST" duration-ms="2344">
+      <class name="Session16.SerializationAndDeserialization">
+        <test-method signature="CreateJSONObjectFromEmployeeClassObject()[pri:0, instance:Session16.SerializationAndDeserialization@7bd4937b]" started-at="2023-11-15T09:22:36 IST" name="CreateJSONObjectFromEmployeeClassObject" finished-at="2023-11-15T09:22:38 IST" duration-ms="2305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateJSONObjectFromEmployeeClassObject -->
+      </class> <!-- Session16.SerializationAndDeserialization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

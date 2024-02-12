@@ -1,0 +1,10 @@
+//ValidateResponseStatus
+Response contains:
+1) Response Status/response
+2)status code
+3)error status code
+4)response status line
+
+
+evry req in restassured library is represented by an interface called requestSpecification .
+this interface allows to modify the req, like adding headers or adding authentication details.

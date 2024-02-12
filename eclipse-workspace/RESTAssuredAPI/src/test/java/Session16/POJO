@@ -1,0 +1,24 @@
+what is Plain Old Java Object (POJO)?
+Plain Old Java Object  is a class which used for object representation of  structured data(JSON).This class contains 
+all the keys as nodes and provides getters and setters to add the abstraction layer.
+so basically when we have data in JSON format and that  data we have to represent in object form then w'll use POJO.
+
+advantages
+---------------
+for the better readiability
+reusability 
+easy access to data
+
+
+{
+    firstName - "Jay"
+	lastName - "Nel"
+	age - 35
+	gender - "Male"
+	salary - 10,000
+
+}
+
+Serialization- Convert employee class object to JSON object
+ DeSerialization- reverse of serization. convert a JSON object to class object.
+

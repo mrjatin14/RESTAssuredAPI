@@ -1,0 +1,13 @@
+"Deserialize" the JSON Response
+Serialization and Deserialzation are programing techniques. where we convert-
+
+obj--> BYTE Streams(Serialization)
+Byte Streams --> object respectively (Deserialzation)
+
+
+what is Serialization and Deserialzation a JSON response?
+Serialization is process of converting data obj into a stream of data (JSON Data). obj--->JSON is serialization
+
+the reverse process of Serialization ( stream to obj) is Deserialzation. JSON Data--> object is called Deserialzation
+
+this convertion is platform independent.
